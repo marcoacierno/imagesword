@@ -56,10 +56,10 @@
         	<div id="images">
             	<?php
             	echo '<img src="'.$json[$level]["img_1"].'" />
-                <img src="'.$json[$level]["img_1"].'" />
+                <img src="'.$json[$level]["img_2"].'" />
                 <br />
-                <img src="'.$json[$level]["img_1"].'" />
-                <img src="'.$json[$level]["img_1"].'" />';
+                <img src="'.$json[$level]["img_3"].'" />
+                <img src="'.$json[$level]["img_4"].'" />';
 				?>
             </div>
             
