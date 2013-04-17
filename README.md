@@ -1,7 +1,7 @@
 4 pictures 1 word
 Created inspired by the game for android with a little 'of functions in the least.
 
-How to create a layer:
+How to create a level:
 
 All levels must be present in the file tests.json
 Levels should be progressive as:
@@ -32,9 +32,9 @@ Indicates the corresponding level.
 Note: The file tests.json can be opened by a user, and then can see the corresponding answer to his level, my advice is, or modify the script in order to make him read an array or lock the file (for example)
 
 When the word is written to a request is sent to controllo.php to check whether correct or not.
-if the wrong word will vibrate to 500 ms and turn red.
+if is the wrong word will vibrate to 500 ms and turn red.
 if right will reload the page and will be loaded the next level.
 
 clicking on a box the letter will be deleted.
 
-Created mostly out of boredom, but it can be a nice idea for someone.
+Created cuz i'm bored, but it can be a nice idea for someone.
